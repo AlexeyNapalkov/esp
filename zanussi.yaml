@@ -33,7 +33,7 @@ wifi:
 captive_portal:
 
 dashboard_import:
-  package_import_url: https://github.com/AlexeyNapalkov/esp/main/zanussi.yaml
+  package_import_url: github://AlexeyNapalkov/esp/blob/main/zanussi.yaml
 
 logger:
   baud_rate: 0
